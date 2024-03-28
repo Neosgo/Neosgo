@@ -8,9 +8,8 @@ Thank you for taking a look!
 
 ## Instructions for accessing and checking my code
 
-1. go to my byb_project repository
-2. click the code button and copy the url
-3. open cmd, in your preferred directory type 'git clone [url]' then press enter
-4. open the helloworld.py file
-5. you're free to test/check the code
+1. Open cmd
+2. In your preferred directory type 'git clone https://github.com/Neosgo/byb_project.git' then press enter
+3. Open the helloworld.py file
+4. You are now free to test/check the code
 
